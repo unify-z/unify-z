@@ -16,6 +16,7 @@
 
 **Known**:
 
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
 ![PUG](https://img.shields.io/badge/-PUG-000000?style=for-the-badge&logo=pug)
