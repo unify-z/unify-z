@@ -29,7 +29,7 @@
 ## 🤝 Contact Me
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unify-z)
 [![email](https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:i@ifeng.asia)
-[![Telegram](https://img.shields.io/badge/Telegram-@unify_zzz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https:****//t.me/unify_zzz)
+[![Telegram](https://img.shields.io/badge/Telegram-@unify_zzz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/unify_zzz)
 [![blog](https://img.shields.io/badge/blog-42b883?style=for-the-badge&logo=vue.js&logoColor=white)](https://blog.ifeng.asia)
 
 
