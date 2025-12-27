@@ -8,9 +8,6 @@
 - An aspiring full-stack developer who is still building experience, driven by a strong passion for learning and improving through hands-on practice.
 
 ## 🔭 Tech Stack
-
-**First Language**:
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
